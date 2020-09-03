@@ -13,6 +13,13 @@ h3
 {
   font-size: 15px;
 }
+footer{
+ background: black;
+ color: white;
+ height: 30px;
+ text-align: center;
+  
+}
 
 #container
 {
